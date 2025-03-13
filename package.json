@@ -1,0 +1,12 @@
+{
+  "name": "cucumber-node-starter-javascript-esm",
+  "version": "0.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --import @cucumber/node/bootstrap --test \"features/**/*.feature\""
+  },
+  "devDependencies": {
+    "@cucumber/node": "^0.3.0"
+  }
+}
