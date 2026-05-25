@@ -7,6 +7,6 @@
     "test": "node --import @cucumber/node/bootstrap --test \"features/**/*.feature\""
   },
   "devDependencies": {
-    "@cucumber/node": "^0.3.0"
+    "@cucumber/node": "^0.6.0"
   }
 }
